@@ -1,5 +1,5 @@
-# chess-房卡麻将游戏 Q603740857
+# chess-mahjong房卡麻将游戏 v: newchengnanjiushi
 麻将扑克房卡联盟亲友圈
-全套商用源码
-客户端creator 服务器node 后台node
-Q603740857
+全套源码 运营级别
+客户端creator 服务器nodejs 后台nodejs pomelo框架清晰 学习必备
+v:newchengnanjiushi
